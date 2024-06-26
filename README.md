@@ -1,5 +1,6 @@
-# Instructions for Map #
+# Instructions for Map and ChatGPT note #
 - The index.html contains the leaflet map.  It only needs to be opened with a browser.
+- I do leverage ChatGPT for this challenge.
 
 # Summary #
 - The data comes from the US Geologic survey.
